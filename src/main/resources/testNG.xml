@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="线下理赔系统测试套件">
+    <test name="线下理赔系统测试用例">
+        <classes>
+            <class name="cases.CheckBalanceCase">
+                <methods>
+                    <include name="checkBalance"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="report.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>
