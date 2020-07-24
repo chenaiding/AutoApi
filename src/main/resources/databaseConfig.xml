@@ -11,7 +11,7 @@
                 <!-- 1.加载数据库驱动 -->
                 <property name="driver" value="com.mysql.jdbc.Driver"></property>
                 <!-- 2.数据库连接地址 -->
-                <property name="url" value="jdbc:mysql://192.168.3.223:3306/test2"></property>
+                <property name="url" value="jdbc:mysql://192.168.3.226:3306/test2"></property>
                 <!-- 2.数据库连接地址 -->
                 <property name="username" value="root"></property>
                 <!-- 2.数据库连接地址 -->
