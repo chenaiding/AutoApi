@@ -3,7 +3,7 @@ package model;
 import lombok.Data;
 
 /**
- * @author xx
+ * @author chenaiding
  * Created on 2020/7/22.
  */
 
