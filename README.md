@@ -19,7 +19,7 @@
         PRIMARY KEY (`id`);
     4、修改databaseConfig.xml中数据库连接地址和数据库的登录账户和信息。
     5、修改CheckBalance类中的变量，改成自己准备测试接口的参数。
-    6、修改CaseMapper.xml中的参数和数据库对应。
+    6、修改CaseMapper.xml中的参数，和数据库对应。
     7、运行testNG.xml。
 
 
